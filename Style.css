@@ -1,0 +1,73 @@
+.header{
+background-color: rgb(136, 188, 247);
+height: 200px;
+}
+
+.a{
+
+    font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    color: rgb(73, 202, 41);
+}
+.container{
+        background-color: rgb(156, 247, 114);
+}
+
+.form{
+    background-color: rgb(29, 86, 5);
+}
+
+.b{
+
+    font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    color: orange;
+}
+.c{
+
+    font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    color: red;
+}
+.book{
+     Arial, sans-serif;
+    font-size: 100px;
+    color: rgb(239, 247, 87);
+}
+
+.alpha{
+    color: rgb(115, 255, 0);
+
+}
+
+.go-top-btn{
+    position: fixed;
+    bottom: 35px;
+    right: 35px;
+    border radius: 100px;
+    cursor: pointer;
+    height: 100px;
+    width: 100px;
+    background: #fff;
+    border: 3px solid #333;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.go-top-btn img{
+    width: 90px;
+    height: 90px;
+}
+.for{
+    background-color: aqua;
+    font-size: 50px;
+    color: red;
+}
+.p2{
+    font-size: larger;
+}
+.alphabet{
+    
+    font-size: 50px;
+}
